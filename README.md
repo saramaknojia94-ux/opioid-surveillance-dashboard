@@ -59,7 +59,7 @@ opioid-surveillance-dashboard/
 │   ├── tx_opioid_by_drug_type.csv
 │   ├── tx_ems_naloxone.csv
 │   └── tx_kpi_summary.csv
-└──opioid_data_prep.py
+└──opioid_data_prep.ipynb
 ```
 
 ---
