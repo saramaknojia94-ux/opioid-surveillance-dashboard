@@ -1,0 +1,401 @@
+county,fips,year,drug_type,opioid_deaths
+Harris,48201,2018,Fentanyl/Synthetic,124
+Harris,48201,2018,Prescription Opioids,106
+Harris,48201,2018,Heroin,83
+Harris,48201,2018,Other/Multiple Opioids,27
+Harris,48201,2019,Fentanyl/Synthetic,187
+Harris,48201,2019,Prescription Opioids,97
+Harris,48201,2019,Heroin,67
+Harris,48201,2019,Other/Multiple Opioids,27
+Harris,48201,2020,Fentanyl/Synthetic,234
+Harris,48201,2020,Prescription Opioids,108
+Harris,48201,2020,Heroin,63
+Harris,48201,2020,Other/Multiple Opioids,36
+Harris,48201,2021,Fentanyl/Synthetic,371
+Harris,48201,2021,Prescription Opioids,101
+Harris,48201,2021,Heroin,59
+Harris,48201,2021,Other/Multiple Opioids,37
+Harris,48201,2022,Fentanyl/Synthetic,307
+Harris,48201,2022,Prescription Opioids,72
+Harris,48201,2022,Heroin,37
+Harris,48201,2022,Other/Multiple Opioids,36
+Dallas,48113,2018,Fentanyl/Synthetic,84
+Dallas,48113,2018,Prescription Opioids,66
+Dallas,48113,2018,Heroin,42
+Dallas,48113,2018,Other/Multiple Opioids,19
+Dallas,48113,2019,Fentanyl/Synthetic,130
+Dallas,48113,2019,Prescription Opioids,78
+Dallas,48113,2019,Heroin,43
+Dallas,48113,2019,Other/Multiple Opioids,21
+Dallas,48113,2020,Fentanyl/Synthetic,156
+Dallas,48113,2020,Prescription Opioids,57
+Dallas,48113,2020,Heroin,31
+Dallas,48113,2020,Other/Multiple Opioids,21
+Dallas,48113,2021,Fentanyl/Synthetic,205
+Dallas,48113,2021,Prescription Opioids,52
+Dallas,48113,2021,Heroin,25
+Dallas,48113,2021,Other/Multiple Opioids,22
+Dallas,48113,2022,Fentanyl/Synthetic,191
+Dallas,48113,2022,Prescription Opioids,50
+Dallas,48113,2022,Heroin,23
+Dallas,48113,2022,Other/Multiple Opioids,21
+Tarrant,48439,2018,Fentanyl/Synthetic,60
+Tarrant,48439,2018,Prescription Opioids,46
+Tarrant,48439,2018,Heroin,38
+Tarrant,48439,2018,Other/Multiple Opioids,13
+Tarrant,48439,2019,Fentanyl/Synthetic,87
+Tarrant,48439,2019,Prescription Opioids,58
+Tarrant,48439,2019,Heroin,33
+Tarrant,48439,2019,Other/Multiple Opioids,16
+Tarrant,48439,2020,Fentanyl/Synthetic,125
+Tarrant,48439,2020,Prescription Opioids,54
+Tarrant,48439,2020,Heroin,28
+Tarrant,48439,2020,Other/Multiple Opioids,16
+Tarrant,48439,2021,Fentanyl/Synthetic,161
+Tarrant,48439,2021,Prescription Opioids,47
+Tarrant,48439,2021,Heroin,20
+Tarrant,48439,2021,Other/Multiple Opioids,14
+Tarrant,48439,2022,Fentanyl/Synthetic,176
+Tarrant,48439,2022,Prescription Opioids,44
+Tarrant,48439,2022,Heroin,22
+Tarrant,48439,2022,Other/Multiple Opioids,19
+Bexar,48029,2018,Fentanyl/Synthetic,47
+Bexar,48029,2018,Prescription Opioids,44
+Bexar,48029,2018,Heroin,30
+Bexar,48029,2018,Other/Multiple Opioids,13
+Bexar,48029,2019,Fentanyl/Synthetic,89
+Bexar,48029,2019,Prescription Opioids,51
+Bexar,48029,2019,Heroin,34
+Bexar,48029,2019,Other/Multiple Opioids,13
+Bexar,48029,2020,Fentanyl/Synthetic,117
+Bexar,48029,2020,Prescription Opioids,51
+Bexar,48029,2020,Heroin,25
+Bexar,48029,2020,Other/Multiple Opioids,16
+Bexar,48029,2021,Fentanyl/Synthetic,158
+Bexar,48029,2021,Prescription Opioids,42
+Bexar,48029,2021,Heroin,26
+Bexar,48029,2021,Other/Multiple Opioids,16
+Bexar,48029,2022,Fentanyl/Synthetic,200
+Bexar,48029,2022,Prescription Opioids,50
+Bexar,48029,2022,Heroin,22
+Bexar,48029,2022,Other/Multiple Opioids,20
+Travis,48453,2018,Fentanyl/Synthetic,27
+Travis,48453,2018,Prescription Opioids,27
+Travis,48453,2018,Heroin,15
+Travis,48453,2018,Other/Multiple Opioids,6
+Travis,48453,2019,Fentanyl/Synthetic,47
+Travis,48453,2019,Prescription Opioids,27
+Travis,48453,2019,Heroin,18
+Travis,48453,2019,Other/Multiple Opioids,8
+Travis,48453,2020,Fentanyl/Synthetic,71
+Travis,48453,2020,Prescription Opioids,25
+Travis,48453,2020,Heroin,14
+Travis,48453,2020,Other/Multiple Opioids,8
+Travis,48453,2021,Fentanyl/Synthetic,83
+Travis,48453,2021,Prescription Opioids,22
+Travis,48453,2021,Heroin,12
+Travis,48453,2021,Other/Multiple Opioids,9
+Travis,48453,2022,Fentanyl/Synthetic,98
+Travis,48453,2022,Prescription Opioids,23
+Travis,48453,2022,Heroin,11
+Travis,48453,2022,Other/Multiple Opioids,10
+Collin,48085,2018,Fentanyl/Synthetic,17
+Collin,48085,2018,Prescription Opioids,16
+Collin,48085,2018,Heroin,11
+Collin,48085,2018,Other/Multiple Opioids,4
+Collin,48085,2019,Fentanyl/Synthetic,23
+Collin,48085,2019,Prescription Opioids,18
+Collin,48085,2019,Heroin,9
+Collin,48085,2019,Other/Multiple Opioids,5
+Collin,48085,2020,Fentanyl/Synthetic,37
+Collin,48085,2020,Prescription Opioids,14
+Collin,48085,2020,Heroin,8
+Collin,48085,2020,Other/Multiple Opioids,4
+Collin,48085,2021,Fentanyl/Synthetic,40
+Collin,48085,2021,Prescription Opioids,11
+Collin,48085,2021,Heroin,7
+Collin,48085,2021,Other/Multiple Opioids,4
+Collin,48085,2022,Fentanyl/Synthetic,51
+Collin,48085,2022,Prescription Opioids,13
+Collin,48085,2022,Heroin,6
+Collin,48085,2022,Other/Multiple Opioids,5
+Hidalgo,48215,2018,Fentanyl/Synthetic,9
+Hidalgo,48215,2018,Prescription Opioids,7
+Hidalgo,48215,2018,Heroin,5
+Hidalgo,48215,2018,Other/Multiple Opioids,2
+Hidalgo,48215,2019,Fentanyl/Synthetic,15
+Hidalgo,48215,2019,Prescription Opioids,11
+Hidalgo,48215,2019,Heroin,6
+Hidalgo,48215,2019,Other/Multiple Opioids,2
+Hidalgo,48215,2020,Fentanyl/Synthetic,23
+Hidalgo,48215,2020,Prescription Opioids,11
+Hidalgo,48215,2020,Heroin,5
+Hidalgo,48215,2020,Other/Multiple Opioids,3
+Hidalgo,48215,2021,Fentanyl/Synthetic,28
+Hidalgo,48215,2021,Prescription Opioids,8
+Hidalgo,48215,2021,Heroin,3
+Hidalgo,48215,2021,Other/Multiple Opioids,2
+Hidalgo,48215,2022,Fentanyl/Synthetic,33
+Hidalgo,48215,2022,Prescription Opioids,8
+Hidalgo,48215,2022,Heroin,3
+Hidalgo,48215,2022,Other/Multiple Opioids,3
+Denton,48121,2018,Fentanyl/Synthetic,16
+Denton,48121,2018,Prescription Opioids,13
+Denton,48121,2018,Heroin,8
+Denton,48121,2018,Other/Multiple Opioids,3
+Denton,48121,2019,Fentanyl/Synthetic,23
+Denton,48121,2019,Prescription Opioids,17
+Denton,48121,2019,Heroin,11
+Denton,48121,2019,Other/Multiple Opioids,4
+Denton,48121,2020,Fentanyl/Synthetic,37
+Denton,48121,2020,Prescription Opioids,16
+Denton,48121,2020,Heroin,8
+Denton,48121,2020,Other/Multiple Opioids,5
+Denton,48121,2021,Fentanyl/Synthetic,44
+Denton,48121,2021,Prescription Opioids,14
+Denton,48121,2021,Heroin,8
+Denton,48121,2021,Other/Multiple Opioids,4
+Denton,48121,2022,Fentanyl/Synthetic,42
+Denton,48121,2022,Prescription Opioids,12
+Denton,48121,2022,Heroin,5
+Denton,48121,2022,Other/Multiple Opioids,5
+Fort Bend,48157,2018,Fentanyl/Synthetic,12
+Fort Bend,48157,2018,Prescription Opioids,9
+Fort Bend,48157,2018,Heroin,7
+Fort Bend,48157,2018,Other/Multiple Opioids,3
+Fort Bend,48157,2019,Fentanyl/Synthetic,20
+Fort Bend,48157,2019,Prescription Opioids,10
+Fort Bend,48157,2019,Heroin,8
+Fort Bend,48157,2019,Other/Multiple Opioids,3
+Fort Bend,48157,2020,Fentanyl/Synthetic,31
+Fort Bend,48157,2020,Prescription Opioids,12
+Fort Bend,48157,2020,Heroin,7
+Fort Bend,48157,2020,Other/Multiple Opioids,4
+Fort Bend,48157,2021,Fentanyl/Synthetic,34
+Fort Bend,48157,2021,Prescription Opioids,10
+Fort Bend,48157,2021,Heroin,5
+Fort Bend,48157,2021,Other/Multiple Opioids,3
+Fort Bend,48157,2022,Fentanyl/Synthetic,34
+Fort Bend,48157,2022,Prescription Opioids,9
+Fort Bend,48157,2022,Heroin,4
+Fort Bend,48157,2022,Other/Multiple Opioids,3
+Montgomery,48339,2018,Fentanyl/Synthetic,22
+Montgomery,48339,2018,Prescription Opioids,18
+Montgomery,48339,2018,Heroin,12
+Montgomery,48339,2018,Other/Multiple Opioids,4
+Montgomery,48339,2019,Fentanyl/Synthetic,25
+Montgomery,48339,2019,Prescription Opioids,15
+Montgomery,48339,2019,Heroin,10
+Montgomery,48339,2019,Other/Multiple Opioids,4
+Montgomery,48339,2020,Fentanyl/Synthetic,40
+Montgomery,48339,2020,Prescription Opioids,15
+Montgomery,48339,2020,Heroin,9
+Montgomery,48339,2020,Other/Multiple Opioids,5
+Montgomery,48339,2021,Fentanyl/Synthetic,47
+Montgomery,48339,2021,Prescription Opioids,12
+Montgomery,48339,2021,Heroin,6
+Montgomery,48339,2021,Other/Multiple Opioids,5
+Montgomery,48339,2022,Fentanyl/Synthetic,50
+Montgomery,48339,2022,Prescription Opioids,13
+Montgomery,48339,2022,Heroin,6
+Montgomery,48339,2022,Other/Multiple Opioids,5
+Williamson,48491,2018,Fentanyl/Synthetic,14
+Williamson,48491,2018,Prescription Opioids,9
+Williamson,48491,2018,Heroin,8
+Williamson,48491,2018,Other/Multiple Opioids,2
+Williamson,48491,2019,Fentanyl/Synthetic,19
+Williamson,48491,2019,Prescription Opioids,10
+Williamson,48491,2019,Heroin,7
+Williamson,48491,2019,Other/Multiple Opioids,3
+Williamson,48491,2020,Fentanyl/Synthetic,31
+Williamson,48491,2020,Prescription Opioids,11
+Williamson,48491,2020,Heroin,6
+Williamson,48491,2020,Other/Multiple Opioids,4
+Williamson,48491,2021,Fentanyl/Synthetic,44
+Williamson,48491,2021,Prescription Opioids,12
+Williamson,48491,2021,Heroin,6
+Williamson,48491,2021,Other/Multiple Opioids,4
+Williamson,48491,2022,Fentanyl/Synthetic,39
+Williamson,48491,2022,Prescription Opioids,9
+Williamson,48491,2022,Heroin,4
+Williamson,48491,2022,Other/Multiple Opioids,4
+Cameron,48061,2018,Fentanyl/Synthetic,5
+Cameron,48061,2018,Prescription Opioids,4
+Cameron,48061,2018,Heroin,3
+Cameron,48061,2018,Other/Multiple Opioids,1
+Cameron,48061,2019,Fentanyl/Synthetic,7
+Cameron,48061,2019,Prescription Opioids,4
+Cameron,48061,2019,Heroin,3
+Cameron,48061,2019,Other/Multiple Opioids,1
+Cameron,48061,2020,Fentanyl/Synthetic,10
+Cameron,48061,2020,Prescription Opioids,4
+Cameron,48061,2020,Heroin,2
+Cameron,48061,2020,Other/Multiple Opioids,1
+Cameron,48061,2021,Fentanyl/Synthetic,11
+Cameron,48061,2021,Prescription Opioids,4
+Cameron,48061,2021,Heroin,1
+Cameron,48061,2021,Other/Multiple Opioids,1
+Cameron,48061,2022,Fentanyl/Synthetic,16
+Cameron,48061,2022,Prescription Opioids,3
+Cameron,48061,2022,Heroin,1
+Cameron,48061,2022,Other/Multiple Opioids,1
+Nueces,48355,2018,Fentanyl/Synthetic,11
+Nueces,48355,2018,Prescription Opioids,8
+Nueces,48355,2018,Heroin,5
+Nueces,48355,2018,Other/Multiple Opioids,2
+Nueces,48355,2019,Fentanyl/Synthetic,16
+Nueces,48355,2019,Prescription Opioids,10
+Nueces,48355,2019,Heroin,7
+Nueces,48355,2019,Other/Multiple Opioids,3
+Nueces,48355,2020,Fentanyl/Synthetic,21
+Nueces,48355,2020,Prescription Opioids,9
+Nueces,48355,2020,Heroin,5
+Nueces,48355,2020,Other/Multiple Opioids,3
+Nueces,48355,2021,Fentanyl/Synthetic,33
+Nueces,48355,2021,Prescription Opioids,11
+Nueces,48355,2021,Heroin,4
+Nueces,48355,2021,Other/Multiple Opioids,3
+Nueces,48355,2022,Fentanyl/Synthetic,38
+Nueces,48355,2022,Prescription Opioids,9
+Nueces,48355,2022,Heroin,4
+Nueces,48355,2022,Other/Multiple Opioids,4
+El Paso,48141,2018,Fentanyl/Synthetic,14
+El Paso,48141,2018,Prescription Opioids,12
+El Paso,48141,2018,Heroin,10
+El Paso,48141,2018,Other/Multiple Opioids,3
+El Paso,48141,2019,Fentanyl/Synthetic,25
+El Paso,48141,2019,Prescription Opioids,12
+El Paso,48141,2019,Heroin,7
+El Paso,48141,2019,Other/Multiple Opioids,3
+El Paso,48141,2020,Fentanyl/Synthetic,28
+El Paso,48141,2020,Prescription Opioids,13
+El Paso,48141,2020,Heroin,6
+El Paso,48141,2020,Other/Multiple Opioids,4
+El Paso,48141,2021,Fentanyl/Synthetic,37
+El Paso,48141,2021,Prescription Opioids,10
+El Paso,48141,2021,Heroin,5
+El Paso,48141,2021,Other/Multiple Opioids,3
+El Paso,48141,2022,Fentanyl/Synthetic,37
+El Paso,48141,2022,Prescription Opioids,8
+El Paso,48141,2022,Heroin,4
+El Paso,48141,2022,Other/Multiple Opioids,3
+Brazoria,48039,2018,Fentanyl/Synthetic,11
+Brazoria,48039,2018,Prescription Opioids,10
+Brazoria,48039,2018,Heroin,7
+Brazoria,48039,2018,Other/Multiple Opioids,2
+Brazoria,48039,2019,Fentanyl/Synthetic,14
+Brazoria,48039,2019,Prescription Opioids,9
+Brazoria,48039,2019,Heroin,7
+Brazoria,48039,2019,Other/Multiple Opioids,2
+Brazoria,48039,2020,Fentanyl/Synthetic,24
+Brazoria,48039,2020,Prescription Opioids,10
+Brazoria,48039,2020,Heroin,5
+Brazoria,48039,2020,Other/Multiple Opioids,3
+Brazoria,48039,2021,Fentanyl/Synthetic,35
+Brazoria,48039,2021,Prescription Opioids,9
+Brazoria,48039,2021,Heroin,4
+Brazoria,48039,2021,Other/Multiple Opioids,3
+Brazoria,48039,2022,Fentanyl/Synthetic,33
+Brazoria,48039,2022,Prescription Opioids,8
+Brazoria,48039,2022,Heroin,3
+Brazoria,48039,2022,Other/Multiple Opioids,3
+Galveston,48167,2018,Fentanyl/Synthetic,11
+Galveston,48167,2018,Prescription Opioids,9
+Galveston,48167,2018,Heroin,6
+Galveston,48167,2018,Other/Multiple Opioids,3
+Galveston,48167,2019,Fentanyl/Synthetic,18
+Galveston,48167,2019,Prescription Opioids,11
+Galveston,48167,2019,Heroin,8
+Galveston,48167,2019,Other/Multiple Opioids,3
+Galveston,48167,2020,Fentanyl/Synthetic,29
+Galveston,48167,2020,Prescription Opioids,10
+Galveston,48167,2020,Heroin,5
+Galveston,48167,2020,Other/Multiple Opioids,3
+Galveston,48167,2021,Fentanyl/Synthetic,38
+Galveston,48167,2021,Prescription Opioids,9
+Galveston,48167,2021,Heroin,4
+Galveston,48167,2021,Other/Multiple Opioids,3
+Galveston,48167,2022,Fentanyl/Synthetic,32
+Galveston,48167,2022,Prescription Opioids,8
+Galveston,48167,2022,Heroin,3
+Galveston,48167,2022,Other/Multiple Opioids,3
+Lubbock,48303,2018,Fentanyl/Synthetic,10
+Lubbock,48303,2018,Prescription Opioids,9
+Lubbock,48303,2018,Heroin,7
+Lubbock,48303,2018,Other/Multiple Opioids,2
+Lubbock,48303,2019,Fentanyl/Synthetic,14
+Lubbock,48303,2019,Prescription Opioids,10
+Lubbock,48303,2019,Heroin,6
+Lubbock,48303,2019,Other/Multiple Opioids,2
+Lubbock,48303,2020,Fentanyl/Synthetic,22
+Lubbock,48303,2020,Prescription Opioids,9
+Lubbock,48303,2020,Heroin,5
+Lubbock,48303,2020,Other/Multiple Opioids,3
+Lubbock,48303,2021,Fentanyl/Synthetic,31
+Lubbock,48303,2021,Prescription Opioids,9
+Lubbock,48303,2021,Heroin,4
+Lubbock,48303,2021,Other/Multiple Opioids,3
+Lubbock,48303,2022,Fentanyl/Synthetic,35
+Lubbock,48303,2022,Prescription Opioids,8
+Lubbock,48303,2022,Heroin,3
+Lubbock,48303,2022,Other/Multiple Opioids,3
+Jefferson,48245,2018,Fentanyl/Synthetic,11
+Jefferson,48245,2018,Prescription Opioids,8
+Jefferson,48245,2018,Heroin,7
+Jefferson,48245,2018,Other/Multiple Opioids,2
+Jefferson,48245,2019,Fentanyl/Synthetic,15
+Jefferson,48245,2019,Prescription Opioids,9
+Jefferson,48245,2019,Heroin,7
+Jefferson,48245,2019,Other/Multiple Opioids,3
+Jefferson,48245,2020,Fentanyl/Synthetic,20
+Jefferson,48245,2020,Prescription Opioids,8
+Jefferson,48245,2020,Heroin,4
+Jefferson,48245,2020,Other/Multiple Opioids,3
+Jefferson,48245,2021,Fentanyl/Synthetic,25
+Jefferson,48245,2021,Prescription Opioids,7
+Jefferson,48245,2021,Heroin,3
+Jefferson,48245,2021,Other/Multiple Opioids,3
+Jefferson,48245,2022,Fentanyl/Synthetic,34
+Jefferson,48245,2022,Prescription Opioids,7
+Jefferson,48245,2022,Heroin,3
+Jefferson,48245,2022,Other/Multiple Opioids,3
+Bell,48027,2018,Fentanyl/Synthetic,10
+Bell,48027,2018,Prescription Opioids,9
+Bell,48027,2018,Heroin,6
+Bell,48027,2018,Other/Multiple Opioids,3
+Bell,48027,2019,Fentanyl/Synthetic,14
+Bell,48027,2019,Prescription Opioids,8
+Bell,48027,2019,Heroin,5
+Bell,48027,2019,Other/Multiple Opioids,2
+Bell,48027,2020,Fentanyl/Synthetic,19
+Bell,48027,2020,Prescription Opioids,7
+Bell,48027,2020,Heroin,5
+Bell,48027,2020,Other/Multiple Opioids,3
+Bell,48027,2021,Fentanyl/Synthetic,26
+Bell,48027,2021,Prescription Opioids,9
+Bell,48027,2021,Heroin,4
+Bell,48027,2021,Other/Multiple Opioids,3
+Bell,48027,2022,Fentanyl/Synthetic,29
+Bell,48027,2022,Prescription Opioids,6
+Bell,48027,2022,Heroin,3
+Bell,48027,2022,Other/Multiple Opioids,2
+Webb,48479,2018,Fentanyl/Synthetic,3
+Webb,48479,2018,Prescription Opioids,2
+Webb,48479,2018,Heroin,1
+Webb,48479,2018,Other/Multiple Opioids,0
+Webb,48479,2019,Fentanyl/Synthetic,6
+Webb,48479,2019,Prescription Opioids,3
+Webb,48479,2019,Heroin,2
+Webb,48479,2019,Other/Multiple Opioids,0
+Webb,48479,2020,Fentanyl/Synthetic,6
+Webb,48479,2020,Prescription Opioids,2
+Webb,48479,2020,Heroin,1
+Webb,48479,2020,Other/Multiple Opioids,0
+Webb,48479,2021,Fentanyl/Synthetic,9
+Webb,48479,2021,Prescription Opioids,2
+Webb,48479,2021,Heroin,1
+Webb,48479,2021,Other/Multiple Opioids,0
+Webb,48479,2022,Fentanyl/Synthetic,8
+Webb,48479,2022,Prescription Opioids,2
+Webb,48479,2022,Heroin,0
+Webb,48479,2022,Other/Multiple Opioids,0

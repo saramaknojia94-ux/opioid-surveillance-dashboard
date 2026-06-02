@@ -1,0 +1,101 @@
+county,fips,urbanization,population,year,opioid_deaths,crude_rate_100k,lat,lng
+Harris,48201,Large Central Metro,4731145,2018,324,6.8,29.85,-95.4
+Harris,48201,Large Central Metro,4731145,2019,406,8.6,29.85,-95.4
+Harris,48201,Large Central Metro,4731145,2020,423,8.9,29.85,-95.4
+Harris,48201,Large Central Metro,4731145,2021,462,9.8,29.85,-95.4
+Harris,48201,Large Central Metro,4731145,2022,465,9.8,29.85,-95.4
+Dallas,48113,Large Central Metro,2613539,2018,176,6.7,32.77,-96.79
+Dallas,48113,Large Central Metro,2613539,2019,250,9.6,32.77,-96.79
+Dallas,48113,Large Central Metro,2613539,2020,292,11.2,32.77,-96.79
+Dallas,48113,Large Central Metro,2613539,2021,316,12.1,32.77,-96.79
+Dallas,48113,Large Central Metro,2613539,2022,302,11.6,32.77,-96.79
+Tarrant,48439,Large Central Metro,2110640,2018,134,6.3,32.72,-97.32
+Tarrant,48439,Large Central Metro,2110640,2019,196,9.3,32.72,-97.32
+Tarrant,48439,Large Central Metro,2110640,2020,224,10.6,32.72,-97.32
+Tarrant,48439,Large Central Metro,2110640,2021,276,13.1,32.72,-97.32
+Tarrant,48439,Large Central Metro,2110640,2022,249,11.8,32.72,-97.32
+Bexar,48029,Large Central Metro,2009324,2018,158,7.9,29.45,-98.52
+Bexar,48029,Large Central Metro,2009324,2019,186,9.3,29.45,-98.52
+Bexar,48029,Large Central Metro,2009324,2020,208,10.4,29.45,-98.52
+Bexar,48029,Large Central Metro,2009324,2021,263,13.1,29.45,-98.52
+Bexar,48029,Large Central Metro,2009324,2022,257,12.8,29.45,-98.52
+Travis,48453,Large Central Metro,1290188,2018,75,5.8,30.33,-97.77
+Travis,48453,Large Central Metro,1290188,2019,88,6.8,30.33,-97.77
+Travis,48453,Large Central Metro,1290188,2020,128,9.9,30.33,-97.77
+Travis,48453,Large Central Metro,1290188,2021,123,9.5,30.33,-97.77
+Travis,48453,Large Central Metro,1290188,2022,119,9.2,30.33,-97.77
+Collin,48085,Large Fringe Metro,1064465,2018,47,4.4,33.19,-96.57
+Collin,48085,Large Fringe Metro,1064465,2019,58,5.4,33.19,-96.57
+Collin,48085,Large Fringe Metro,1064465,2020,64,6.0,33.19,-96.57
+Collin,48085,Large Fringe Metro,1064465,2021,70,6.6,33.19,-96.57
+Collin,48085,Large Fringe Metro,1064465,2022,68,6.4,33.19,-96.57
+Hidalgo,48215,Medium Metro,870781,2018,28,3.2,26.3,-98.18
+Hidalgo,48215,Medium Metro,870781,2019,38,4.4,26.3,-98.18
+Hidalgo,48215,Medium Metro,870781,2020,40,4.6,26.3,-98.18
+Hidalgo,48215,Medium Metro,870781,2021,48,5.5,26.3,-98.18
+Hidalgo,48215,Medium Metro,870781,2022,51,5.9,26.3,-98.18
+Denton,48121,Large Fringe Metro,906422,2018,40,4.4,33.21,-97.13
+Denton,48121,Large Fringe Metro,906422,2019,56,6.2,33.21,-97.13
+Denton,48121,Large Fringe Metro,906422,2020,65,7.2,33.21,-97.13
+Denton,48121,Large Fringe Metro,906422,2021,69,7.6,33.21,-97.13
+Denton,48121,Large Fringe Metro,906422,2022,63,7.0,33.21,-97.13
+Fort Bend,48157,Large Fringe Metro,822779,2018,35,4.3,29.53,-95.77
+Fort Bend,48157,Large Fringe Metro,822779,2019,39,4.7,29.53,-95.77
+Fort Bend,48157,Large Fringe Metro,822779,2020,52,6.3,29.53,-95.77
+Fort Bend,48157,Large Fringe Metro,822779,2021,63,7.7,29.53,-95.77
+Fort Bend,48157,Large Fringe Metro,822779,2022,61,7.4,29.53,-95.77
+Montgomery,48339,Large Fringe Metro,620443,2018,45,7.3,30.3,-95.5
+Montgomery,48339,Large Fringe Metro,620443,2019,59,9.5,30.3,-95.5
+Montgomery,48339,Large Fringe Metro,620443,2020,76,12.2,30.3,-95.5
+Montgomery,48339,Large Fringe Metro,620443,2021,75,12.1,30.3,-95.5
+Montgomery,48339,Large Fringe Metro,620443,2022,83,13.4,30.3,-95.5
+Williamson,48491,Large Fringe Metro,692003,2018,30,4.3,30.64,-97.6
+Williamson,48491,Large Fringe Metro,692003,2019,42,6.1,30.64,-97.6
+Williamson,48491,Large Fringe Metro,692003,2020,50,7.2,30.64,-97.6
+Williamson,48491,Large Fringe Metro,692003,2021,62,9.0,30.64,-97.6
+Williamson,48491,Large Fringe Metro,692003,2022,51,7.4,30.64,-97.6
+Cameron,48061,Medium Metro,423163,2018,12,2.8,26.16,-97.64
+Cameron,48061,Medium Metro,423163,2019,18,4.3,26.16,-97.64
+Cameron,48061,Medium Metro,423163,2020,21,5.0,26.16,-97.64
+Cameron,48061,Medium Metro,423163,2021,20,4.7,26.16,-97.64
+Cameron,48061,Medium Metro,423163,2022,23,5.4,26.16,-97.64
+Nueces,48355,Medium Metro,342834,2018,30,8.8,27.73,-97.52
+Nueces,48355,Medium Metro,342834,2019,36,10.5,27.73,-97.52
+Nueces,48355,Medium Metro,342834,2020,49,14.3,27.73,-97.52
+Nueces,48355,Medium Metro,342834,2021,56,16.3,27.73,-97.52
+Nueces,48355,Medium Metro,342834,2022,51,14.9,27.73,-97.52
+El Paso,48141,Medium Metro,865657,2018,36,4.2,31.76,-106.49
+El Paso,48141,Medium Metro,865657,2019,50,5.8,31.76,-106.49
+El Paso,48141,Medium Metro,865657,2020,60,6.9,31.76,-106.49
+El Paso,48141,Medium Metro,865657,2021,71,8.2,31.76,-106.49
+El Paso,48141,Medium Metro,865657,2022,60,6.9,31.76,-106.49
+Brazoria,48039,Large Fringe Metro,380434,2018,31,8.1,29.17,-95.47
+Brazoria,48039,Large Fringe Metro,380434,2019,41,10.8,29.17,-95.47
+Brazoria,48039,Large Fringe Metro,380434,2020,43,11.3,29.17,-95.47
+Brazoria,48039,Large Fringe Metro,380434,2021,53,13.9,29.17,-95.47
+Brazoria,48039,Large Fringe Metro,380434,2022,48,12.6,29.17,-95.47
+Galveston,48167,Large Fringe Metro,342139,2018,36,10.5,29.21,-94.86
+Galveston,48167,Large Fringe Metro,342139,2019,39,11.4,29.21,-94.86
+Galveston,48167,Large Fringe Metro,342139,2020,50,14.6,29.21,-94.86
+Galveston,48167,Large Fringe Metro,342139,2021,61,17.8,29.21,-94.86
+Galveston,48167,Large Fringe Metro,342139,2022,57,16.7,29.21,-94.86
+Lubbock,48303,Medium Metro,320096,2018,28,8.7,33.58,-101.86
+Lubbock,48303,Medium Metro,320096,2019,33,10.3,33.58,-101.86
+Lubbock,48303,Medium Metro,320096,2020,43,13.4,33.58,-101.86
+Lubbock,48303,Medium Metro,320096,2021,42,13.1,33.58,-101.86
+Lubbock,48303,Medium Metro,320096,2022,45,14.1,33.58,-101.86
+Jefferson,48245,Small Metro,252358,2018,27,10.7,29.88,-94.17
+Jefferson,48245,Small Metro,252358,2019,30,11.9,29.88,-94.17
+Jefferson,48245,Small Metro,252358,2020,38,15.1,29.88,-94.17
+Jefferson,48245,Small Metro,252358,2021,48,19.0,29.88,-94.17
+Jefferson,48245,Small Metro,252358,2022,42,16.6,29.88,-94.17
+Bell,48027,Medium Metro,362924,2018,28,7.7,31.05,-97.48
+Bell,48027,Medium Metro,362924,2019,37,10.2,31.05,-97.48
+Bell,48027,Medium Metro,362924,2020,45,12.4,31.05,-97.48
+Bell,48027,Medium Metro,362924,2021,46,12.7,31.05,-97.48
+Bell,48027,Medium Metro,362924,2022,42,11.6,31.05,-97.48
+Webb,48479,Medium Metro,276652,2018,9,3.3,27.76,-99.47
+Webb,48479,Medium Metro,276652,2019,12,4.3,27.76,-99.47
+Webb,48479,Medium Metro,276652,2020,13,4.7,27.76,-99.47
+Webb,48479,Medium Metro,276652,2021,15,5.4,27.76,-99.47
+Webb,48479,Medium Metro,276652,2022,13,4.7,27.76,-99.47

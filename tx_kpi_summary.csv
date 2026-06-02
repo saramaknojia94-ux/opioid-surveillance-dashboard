@@ -1,0 +1,6 @@
+year,total_opioid_deaths,yoy_change_pct,deaths_per_100k_avg,highest_county,highest_rate,total_naloxone_deployments,ems_reach_ratio_avg,top_drug_type,counties_tracked
+2018,1329,,6.3,Jefferson,10.7,2751,1.69,Fentanyl/Synthetic,20
+2019,1714,29.0,8.0,Jefferson,11.9,3273,1.71,Fentanyl/Synthetic,20
+2020,1984,15.8,9.6,Jefferson,15.1,3977,1.73,Fentanyl/Synthetic,20
+2021,2239,12.9,10.9,Jefferson,19.0,4088,1.7,Fentanyl/Synthetic,20
+2022,2150,-4.0,10.3,Galveston,16.7,4326,1.75,Fentanyl/Synthetic,20
